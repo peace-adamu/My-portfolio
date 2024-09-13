@@ -1,6 +1,3 @@
-# My-portfolio
-Adamu Peace' Portfolio
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,7 +26,7 @@ Adamu Peace' Portfolio
         <section id="education">
             <h1>Education</h1>
             <p>I hold a degree in Chemical Engineering from the Federal University of Petroleum and Resources.</p>
-            <p>I also hold a certificate of completion from 3MTT Training.</p>
+            <p>I also hold a certificate of completion from 3MTT Training as a data scientist.</p>
             <p>Currently studying software development at Power Learn Project Academy.</p>
             <p>Also, I'm running a program with Ladies in Tech Africa, course data analysis.</p>
             <a href="https://docs.google.com/document/d/1BWGg8HxEi6QnBd-uZy-GQPiFCxGrT6azNTqgya02HUs/edit?usp=sharing" download>Download My CV</a>
@@ -55,6 +52,7 @@ Adamu Peace' Portfolio
                 <li><a href="https://github.com/peace-adamu/SocialNetworkAdv-Prediction-Application">Social Network Ads Prediction Model</a>: Predicting social network ad purchases Overview Machine learning model predicting whether social network ads will be purchased based on user data and ad features.</li>
                 <li><a href="https://github.com/PLP-WebTechnologies/plp-webtechnologies-classroom-introduction-to-html-aug-2024-week-1">PLP webpage assignment</a>: Using HTML to create my webpage.</li>
                 <li><a href="https://github.com/PLP-WebTechnologies/introduction-to-css-peace-adamu">Syling with CSS</a>: PLP assignment, styling with CSS both internal, inline and ecternal form of css form of styling.</li>
+                <li><a href="https://github.com/peace-adamu/Ladies-in-Tech-Africa-Project">Ladies-in-Tech-Africa-Project</a>: Utilize Excel and MySQL to analyze and visualize company data, focusing on staff salaries and extraction of relevant text.</li>
             </ul>
         </section>
         <section id="contact">
