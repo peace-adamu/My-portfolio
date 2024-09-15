@@ -51,7 +51,7 @@
                 <li><a href="https://github.com/peace-adamu/Streaming-Viewership">Streaming-Viewership</a>: Insights Unlocking User Behavior and Preferences This project delves into the world of streaming viewership, uncovering hidden insights and trends in user behavior and preferences.</li>
                 <li><a href="https://github.com/peace-adamu/SocialNetworkAdv-Prediction-Application">Social Network Ads Prediction Model</a>: Predicting social network ad purchases Overview Machine learning model predicting whether social network ads will be purchased based on user data and ad features.</li>
                 <li><a href="https://github.com/PLP-WebTechnologies/plp-webtechnologies-classroom-introduction-to-html-aug-2024-week-1">PLP webpage assignment</a>: Using HTML to create my webpage.</li>
-                <li><a href="https://github.com/PLP-WebTechnologies/introduction-to-css-peace-adamu">Syling with CSS</a>: PLP assignment, styling with CSS both internal, inline and ecternal form of css form of styling.</li>
+                <li><a href="https://github.com/PLP-WebTechnologies/introduction-to-css-peace-adamu">Syling with CSS</a>: PLP assignment, styling with CSS both internal, inline and external form of css styling.</li>
                 <li><a href="https://github.com/peace-adamu/Ladies-in-Tech-Africa-Project">Ladies-in-Tech-Africa-Project</a>: Utilize Excel and MySQL to analyze and visualize company data, focusing on staff salaries and extraction of relevant text.</li>
             </ul>
         </section>
