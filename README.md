@@ -59,6 +59,7 @@
                     <li><a href="https://github.com/peace-adamu/LITA-Power-BI-Class-Documentation.git">LITA-Power-BI-Class-Documentation</a>: In our Power BI class, we focused on importing, cleaning, and visualizing data to uncover insightful patterns and trends. This process involved detailed data manipulation and the creation of effective visual representations to aid in data analysis.</li>
                     <li><a href="https://github.com/peace-adamu/LITA-Project-Customer-Subscription-Analysis.git">LITA-Project-Customer-Subscription-Analysis</a>: This project involves analyzing customer data for a subscription service to identify segments and trends, understanding customer behavior, tracking subscription types, and identifying key trends in cancellations and renewals.</li>
             </ul>
+        
         </section>
         <section id="Awards and Certificates">
             <h1>Hackathons</h>
@@ -66,8 +67,7 @@
                 <li><a href="https://drive.google.com/file/d/1Gda7C8mjH3A77ASEp0hKbUKC0Ymc1ZUx/view?usp=sharing">Building a Dynamic Personal Portfolio Website by Power Learn Project</a></li>
                 <li><a href="https://drive.google.com/file/d/1mmAtKWCJRvSPSgf64k9YpeMNkotZdQLJ/view?usp=sharing">Social Justice Hackathon by Power Learn Project</a></li>
             </ul>
-        </section>
-                           
+        </section>                   
         <section id="contact">
             <h1>Contact Me</h1>
             <p>Phone: 09069668265</p>
