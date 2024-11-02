@@ -53,8 +53,21 @@
                 <li><a href="https://github.com/PLP-WebTechnologies/plp-webtechnologies-classroom-introduction-to-html-aug-2024-week-1">PLP webpage assignment</a>: Using HTML to create my webpage.</li>
                 <li><a href="https://github.com/PLP-WebTechnologies/introduction-to-css-peace-adamu">Syling with CSS</a>: PLP assignment, styling with CSS both internal, inline and external form of css styling.</li>
                 <li><a href="https://github.com/peace-adamu/Ladies-in-Tech-Africa-Project">Ladies-in-Tech-Africa-Project</a>: Utilize Excel and MySQL to analyze and visualize company data, focusing on staff salaries and extraction of relevant text.</li>
+                <li><a href="https://github.com/peace-adamu/LITA-Project-Sales-Performance-Analysis-for-a-Retail-Store.git">LITA-Project-Sales-Performance-Analysis-for-a-Retail-Store</a>: This project showcases exceptional data analysis skills, providing actionable insights into sales performance. The use of Excel, SQL, and Power BI effectively extracts key metrics, enabling informed business decisions to optimize product offerings, enhance regional marketing strategies, and improve sales forecasting.</li>
+                <li><a href="https://github.com/peace-adamu/LITA-Class-on-Pivot-Table.git">LITA-Class-on-Pivot-Table</a>: This project focuses on leveraging pivot tables in Excel to analyze business performance across multiple dimensions, including regions, business lines, and stores.</li>
+                <li><a href="https://github.com/peace-adamu/Ladies-in-Tech-African-Class----Excel-Functions.git">This project, Ladies in Tech African Excel Project, aims to demonstrate the application of basic Excel functions and data analysis techniques using a sample dataset of worker salaries across different states in a company. The project covers various Excel functions, including basic arithmetic functions, text cleaning, and VLOOKUP for salary structure.</li>
+                    <li><a href="https://github.com/peace-adamu/LITA-Power-BI-Class-Documentation.git">LITA-Power-BI-Class-Documentation</a>: In our Power BI class, we focused on importing, cleaning, and visualizing data to uncover insightful patterns and trends. This process involved detailed data manipulation and the creation of effective visual representations to aid in data analysis.</li>
+                    <li><a href="https://github.com/peace-adamu/LITA-Project-Customer-Subscription-Analysis.git">LITA-Project-Customer-Subscription-Analysis</a>: This project involves analyzing customer data for a subscription service to identify segments and trends, understanding customer behavior, tracking subscription types, and identifying key trends in cancellations and renewals.</li>
             </ul>
         </section>
+        <section id="Awards and Certificates">
+            <h1>Hackathons</h>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1Gda7C8mjH3A77ASEp0hKbUKC0Ymc1ZUx/view?usp=sharing">Building a Dynamic Personal Portfolio Website by Power Learn Project</a></li>
+                <li><a href="https://drive.google.com/file/d/1mmAtKWCJRvSPSgf64k9YpeMNkotZdQLJ/view?usp=sharing">Social Justice Hackathon by Power Learn Project</a></li>
+            </ul>
+        </section>
+                           
         <section id="contact">
             <h1>Contact Me</h1>
             <p>Phone: 09069668265</p>
