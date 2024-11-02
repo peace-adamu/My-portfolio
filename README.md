@@ -29,7 +29,7 @@
             <p>I also hold a certificate of completion from 3MTT Training as a data scientist.</p>
             <p>Currently studying software development at Power Learn Project Academy.</p>
             <p>Also, I'm running a program with Ladies in Tech Africa, course data analysis.</p>
-            <a href="https://docs.google.com/document/d/1BWGg8HxEi6QnBd-uZy-GQPiFCxGrT6azNTqgya02HUs/edit?usp=sharing" download>Download My CV</a>
+            <a href="https://drive.google.com/file/d/1L8yxT-DVeGBG80JpPlafkxiwAYVmOCLl/view?usp=sharing" download>Download My CV</a>
         </section>
         <section id="interests">
             <h1>Interests</h1>
@@ -52,7 +52,6 @@
                 <li><a href="https://github.com/peace-adamu/SocialNetworkAdv-Prediction-Application">Social Network Ads Prediction Model</a>: Predicting social network ad purchases Overview Machine learning model predicting whether social network ads will be purchased based on user data and ad features.</li>
                 <li><a href="https://github.com/PLP-WebTechnologies/plp-webtechnologies-classroom-introduction-to-html-aug-2024-week-1">PLP webpage assignment</a>: Using HTML to create my webpage.</li>
                 <li><a href="https://github.com/PLP-WebTechnologies/introduction-to-css-peace-adamu">Styling with CSS</a>: PLP assignment, styling with CSS both internal, inline and external form of CSS styling.</li>
-                <li><a href="https://github.com/peace-adamu/Ladies-in-Tech-Africa-Project">Ladies-in-Tech-Africa-Project</a>: Utilize Excel and MySQL to analyze and visualize company data, focusing on staff salaries and extraction of relevant text.</li>
                 <li><a href="https://github.com/peace-adamu/LITA-Project-Sales-Performance-Analysis-for-a-Retail-Store.git">LITA-Project-Sales-Performance-Analysis-for-a-Retail-Store</a>: This project showcases exceptional data analysis skills, providing actionable insights into sales performance. The use of Excel, SQL, and Power BI effectively extracts key metrics, enabling informed business decisions to optimize product offerings, enhance regional marketing strategies, and improve sales forecasting.</li>
                 <li><a href="https://github.com/peace-adamu/LITA-Class-on-Pivot-Table.git">LITA-Class-on-Pivot-Table</a>: This project focuses on leveraging pivot tables in Excel to analyze business performance across multiple dimensions, including regions, business lines, and stores.</li>
                 <li><a href="https://github.com/peace-adamu/Ladies-in-Tech-African-Class----Excel-Functions.git">Ladies-in-Tech-African-Class----Excel-Functions</a>: This project, Ladies in Tech African Excel Project, aims to demonstrate the application of basic Excel functions and data analysis techniques using a sample dataset of worker salaries across different states in a company. The project covers various Excel functions, including basic arithmetic functions, text cleaning, and VLOOKUP for salary structure.</li>
