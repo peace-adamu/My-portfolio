@@ -21,15 +21,15 @@
     <main>
         <section id="about">
             <h1>About Me</h1>
-            <p>Hi! I'm Adamu Peace, a passionate data analyst and web developer with a drive to create innovative solutions and solve problems by making meaningful contributions. I have a strong passion for tech inline with my engineering background not limited as a female.</p>
+            <p>Hi! I'm Adamu Peace, a passionate data analyst and a chemical engineering with a drive to create innovative solutions and solve problems by making meaningful contributions. I have a strong passion for tech inline with my engineering background not limited as a female.</p>
         </section>
         <section id="education">
             <h1>Education</h1>
             <p>I hold a degree in Chemical Engineering from the Federal University of Petroleum and Resources.</p>
             <p>I also hold a certificate of completion from 3MTT Training as a data scientist.</p>
-            <p>Currently studying software development at Power Learn Project Academy.</p>
-            <p>Also, I'm running a program with Ladies in Tech Africa, course data analysis.</p>
-            <a href="https://drive.google.com/file/d/1L8yxT-DVeGBG80JpPlafkxiwAYVmOCLl/view?usp=sharing" download>Download My CV</a>
+            <p>Certificate of completion from Ladies in Tech Africa as a data analyst.</p>
+            <p>Also, certifcate of completion from Udacity as a data analysis.</p>
+            <a href="[[https://drive.google.com/file/d/1L8yxT-DVeGBG80JpPlafkxiwAYVmOCLl/view?usp=sharing](https://docs.google.com/document/d/1bPps4v_7pgoariUY1egAVV53J0XN054kWQqnJbneseA/edit?usp=sharing)](https://docs.google.com/document/d/1bPps4v_7pgoariUY1egAVV53J0XN054kWQqnJbneseA/edit?usp=sharing)" download>Download My CV</a>
         </section>
         <section id="interests">
             <h1>Interests</h1>
@@ -39,14 +39,14 @@
                 <li>Tech Innovations: Staying updated with advancements in the tech world</li>
                 <li>Oil Industries: Developing models to simplify things</li>
                 <li>Artificial Intelligence: Exploring its applications and potential</li>
-                <li>Machine Learning: Building predictive models and solving complex problems</li>
+                <li>Machine Learning: Building predictive app/web and solving complex problems</li>
             </ul>
         </section>
         <section id="projects">
             <h1>Projects</h1>
             <ul>
                 <li><a href="https://github.com/peace-adamu/Diabetes-Prediction-Web-App">Diabetes Prediction Web App</a>: A web-based diabetes prediction system using machine learning algorithms and Streamlit.</li>
-                <li><a href="https://github.com/peace-adamu/Kyhosis-Prediction-System">Kyphosis Detection System</a>: A web-based Kyphosis Detection System using Streamlit and a pre-trained Random Forest Classifier model.</li>
+                <li><a href="[https://github.com/peace-adamu/Kyhosis-Prediction-System](https://github.com/peace-adamu/KYPHOSIS-PREDICTION-APP)">Kyphosis Detection System</a>: A web-based Kyphosis Detection System using Streamlit and a pre-trained Random Forest Classifier model.</li>
                 <li><a href="https://github.com/peace-adamu/Venture-Tribe-Internship-Project-">Venture Tribe Internship Project</a>: As an intern at Venture Tribe, I led a project to collect user feedback and preferences for the company's website development and social media handles. The goal was to ensure that the website and online presence meet the needs and expectations of the target audience.</li>
                 <li><a href="https://github.com/peace-adamu/Streaming-Viewership">Streaming-Viewership</a>: Insights Unlocking User Behavior and Preferences This project delves into the world of streaming viewership, uncovering hidden insights and trends in user behavior and preferences.</li>
                 <li><a href="https://github.com/peace-adamu/SocialNetworkAdv-Prediction-Application">Social Network Ads Prediction Model</a>: Predicting social network ad purchases Overview Machine learning model predicting whether social network ads will be purchased based on user data and ad features.</li>
