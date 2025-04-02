@@ -45,7 +45,7 @@
         <section id="projects">
             <h1>Projects</h1>
             <ul>
-                <li><a href="https://github.com/peace-adamu/Diabetes-Web-App.git">Diabetes Prediction Web App</a>: A web-based diabetes prediction system using machine learning algorithms and Streamlit.</li>
+                <li><a href="https://github.com/peace-adamu/Diabetes-Web-App">Diabetes Prediction Web App</a>: A web-based diabetes prediction system using machine learning algorithms and Streamlit.</li>
                 <li><a href="https://github.com/peace-adamu/KYPHOSIS-PREDICTION-APP">Kyphosis Detection System</a>: A web-based Kyphosis Detection System using Streamlit and a pre-trained Random Forest Classifier model.</li>
                 <li><a href="https://github.com/peace-adamu/Venture-Tribe-Internship-Project-">Venture Tribe Internship Project</a>: As an intern at Venture Tribe, I led a project to collect user feedback and preferences for the company's website development and social media handles. The goal was to ensure that the website and online presence meet the needs and expectations of the target audience.</li>
                 <li><a href="https://github.com/peace-adamu/Streaming-Viewership">Streaming-Viewership</a>: Insights Unlocking User Behavior and Preferences This project delves into the world of streaming viewership, uncovering hidden insights and trends in user behavior and preferences.</li>
