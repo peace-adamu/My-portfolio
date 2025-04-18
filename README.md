@@ -28,47 +28,6 @@
             <p>I hold a degree in Chemical Engineering from the Federal University of Petroleum and Resources.</p>
             <p>I also hold a certificate of completion from 3MTT Training as a data scientist.</p>
             <p>Certificate of completion from Ladies in Tech Africa as a data analyst.</p>
-            <p>Also, certifcate of completion from Udacity as a data analysis.</p>
-           <a href="https://drive.google.com/file/d/1hREw4FiT5HFM0w2Dvy9S7Qo5EWtXHOuX/view?usp=sharing" download>Download My CV</a>
-        </section>
-        <section id="interests">
-            <h1>Interests</h1>
-            <ul>
-                <li>Data Analysis: Finding out what is working, what is not working, and getting insights about data, turning raw data into actionable data</li>
-                <li>Web Development: Exploring the latest trends and technologies</li>
-                <li>Tech Innovations: Staying updated with advancements in the tech world</li>
-                <li>Oil Industries: Developing models to simplify things</li>
-                <li>Artificial Intelligence: Exploring its applications and potential</li>
-                <li>Machine Learning: Building p<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adamu Peace's Portfolio</title>
-    <link rel="stylesheet" href="css_portfolio.css">
-</head>
-<body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#education">Education</a></li>
-                <li><a href="#interests">Interests</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-    <main>
-        <section id="about">
-            <h1>About Me</h1>
-            <p>Hi! I'm Adamu Peace, a passionate data analyst and a chemical engineering with a drive to create innovative solutions and solve problems by making meaningful contributions. I have a strong passion for tech inline with my engineering background not limited as a female.</p>
-        </section>
-        <section id="education">
-            <h1>Education</h1>
-            <p>I hold a degree in Chemical Engineering from the Federal University of Petroleum and Resources.</p>
-            <p>I also hold a certificate of completion from 3MTT Training as a data scientist.</p>
-            <p>Certificate of completion from Ladies in Tech Africa as a data analyst.</p>
             <p>Also, certificate of completion from Udacity as a data analyst.</p>
            <a href="https://drive.google.com/file/d/1hREw4FiT5HFM0w2Dvy9S7Qo5EWtXHOuX/view?usp=sharing" download>Download My CV</a>
         </section>
