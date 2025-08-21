@@ -67,6 +67,7 @@
             <ul>
                 <li><a href="https://drive.google.com/file/d/1Gda7C8mjH3A77ASEp0hKbUKC0Ymc1ZUx/view?usp=sharing">Building a Dynamic Personal Portfolio Website by Power Learn Project</a></li>
                 <li><a href="https://drive.google.com/file/d/1mmAtKWCJRvSPSgf64k9YpeMNkotZdQLJ/view?usp=sharing">Social Justice Hackathon by Power Learn Project</a></li>
+                <li><a href="https://github.com/peace-adamu/APWEN-Hackathon">Built Milling Machine Failure Type Detection App.</a></li>
             </ul>
         </section>
         <section id="contact">
