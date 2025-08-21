@@ -40,6 +40,7 @@
                 <li>Oil Industries: Developing models to simplify things</li>
                 <li>Artificial Intelligence: Exploring its applications and potential</li>
                 <li>Machine Learning: Building predictive app/web and solving complex problems</li>
+                <li>Experience AI Educator: Educating younger ones on the ethics and use of AI</li>
             </ul>
         </section>
         <section id="projects">
@@ -53,11 +54,12 @@
                 <li><a href="https://github.com/peace-adamu/SocialNetworkAdv-Prediction-Application">Social Network Ads Prediction Model</a>: Predicts whether social network ads will be purchased based on user data and ad features.</li>
                 <li><a href="https://github.com/PLP-WebTechnologies/plp-webtechnologies-classroom-introduction-to-html-aug-2024-week-1">PLP Webpage Assignment</a>: HTML-based personal webpage as part of PLP classroom activities.</li>
                 <li><a href="https://github.com/PLP-WebTechnologies/introduction-to-css-peace-adamu">Styling with CSS</a>: Demonstrates internal, inline, and external CSS styling as part of PLP classroom assignments.</li>
-                <li><a href="https://github.com/peace-adamu/LITA-Project-Sales-Performance-Analysis-for-a-Retail-Store.git">LITA Project - Sales Performance</a>: Provides actionable insights into sales performance using Excel, SQL, and Power BI.</li>
+                <li><a href="https://github.com/peace-adamu/LITA-Project-Sales-Performance-Analysis-for-a-Retail-Store.git">LITA's Project - Sales Performance</a>: Provides actionable insights into sales performance using Excel, SQL, and Power BI.</li>
                 <li><a href="https://github.com/peace-adamu/LITA-Class-on-Pivot-Table.git">LITA Class on Pivot Table</a>: Uses Excel pivot tables to analyze business performance across various dimensions.</li>
                 <li><a href="https://github.com/peace-adamu/Ladies-in-Tech-African-Class----Excel-Functions.git">Ladies in Tech Africa - Excel Functions</a>: Showcases Excel functions, salary analysis, text cleaning, and VLOOKUP techniques.</li>
-                <li><a href="https://github.com/peace-adamu/LITA-Power-BI-Class-Documentation.git">LITA Power BI Class</a>: Focuses on data importation, cleaning, and visualization for insight generation.</li>
-                <li><a href="https://github.com/peace-adamu/LITA-Project-Customer-Subscription-Analysis.git">LITA Project - Subscription Analysis</a>: Explores customer data to understand behavior, track trends, and inform retention strategies.</li>
+                <li><a href="https://github.com/peace-adamu/LITA-Power-BI-Class-Documentation.git">LITA' Power BI Class</a>: Focuses on data importation, cleaning, and visualization for insight generation.</li>
+                <li><a href="https://github.com/peace-adamu/LITA-Project-Customer-Subscription-Analysis.git">LITA's Project - Subscription Analysis</a>: Explores customer data to understand behavior, track trends, and inform retention strategies.</li>
+                <li><a href="https://github.com/peace-adamu/DSA-Project---Stroke-Prediction">Digitat SkillUp Africa's Project</a>: Built App for predicting Patients Risk of having stroke.</li>
             </ul>
         </section>
         <section id="awards">
