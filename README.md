@@ -46,6 +46,8 @@
         <section id="projects">
             <h1>Projects</h1>
             <ul>
+                <li><a href="https://github.com/peace-adamu/Spam-Email-Detection">Spam Email Detection App</a>: A machine learning- based project with natural language processing to detect if an email will be regarded as spam or not.</li>
+                <li><a href="https://github.com/peace-adamu/DSA-Project---Stroke-Prediction">Digitat SkillUp Africa's Project</a>: Built App for predicting Patients Risk of having stroke.</li>
                 <li><a href="https://github.com/peace-adamu/APWEN-Hackathon.git">APWEN Hackathon - Milling Machine Failure Detection App</a>: A machine learning-based project to predict failure types in a manufacturing setting, promoting smart industry solutions.</li>
                 <li><a href="https://github.com/peace-adamu/Diabetes_Web_App.git">Diabetes Web App</a>: A web-based diabetes prediction system using machine learning algorithms and Streamlit.</li>
                 <li><a href="https://github.com/peace-adamu/KYPHOSIS-PREDICTION-APP">Kyphosis Detection System</a>: A web-based Kyphosis Detection System using Streamlit and a pre-trained Random Forest Classifier model.</li>
@@ -59,7 +61,7 @@
                 <li><a href="https://github.com/peace-adamu/Ladies-in-Tech-African-Class----Excel-Functions.git">Ladies in Tech Africa - Excel Functions</a>: Showcases Excel functions, salary analysis, text cleaning, and VLOOKUP techniques.</li>
                 <li><a href="https://github.com/peace-adamu/LITA-Power-BI-Class-Documentation.git">LITA' Power BI Class</a>: Focuses on data importation, cleaning, and visualization for insight generation.</li>
                 <li><a href="https://github.com/peace-adamu/LITA-Project-Customer-Subscription-Analysis.git">LITA's Project - Subscription Analysis</a>: Explores customer data to understand behavior, track trends, and inform retention strategies.</li>
-                <li><a href="https://github.com/peace-adamu/DSA-Project---Stroke-Prediction">Digitat SkillUp Africa's Project</a>: Built App for predicting Patients Risk of having stroke.</li>
+                
             </ul>
         </section>
         <section id="awards">
