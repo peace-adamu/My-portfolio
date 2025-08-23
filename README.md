@@ -74,3 +74,30 @@
             <h1>Hackathons</h1>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1Gda7C8mjH3A77ASEp0hKbUKC0Ymc1ZUx/view?usp=sharing">Power Learn Project: Portfolio Website</a></li>
+                <li><a href="https://drive.google.com/file/d/1mmAtKWCJRvSPSgf64k9YpeMNkotZdQLJ/view?usp=sharing">Power Learn Project: Social Justice Hackathon</a></li>
+                <li><a href="https://github.com/peace-adamu/APWEN-Hackathon">APWEN Hackathon: Milling Machine Failure App</a></li>
+            </ul>
+        </section>
+
+        <section id="contact">
+            <h1>Contact Me</h1>
+            <p>Phone: 09069668265</p>
+            <p>Email: <a href="mailto:peacejoadamu@gmail.com">peacejoadamu@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/peace-adamu-34576b23a">peace-adamu-34576b23a</a></p>
+            <form>
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name"><br><br>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email"><br><br>
+
+                <input type="submit" value="Send">
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Adamu Peace</p>
+    </footer>
+</body>
+</html>
