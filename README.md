@@ -19,7 +19,7 @@
         </nav>
     </header>
 
-    <main>
+    
         <section id="about">
             <h1>About Me</h1>
             <p>
@@ -94,7 +94,7 @@
                 <input type="submit" value="Send">
             </form>
         </section>
-    </main>
+    
 
     <footer>
         <p>&copy; 2024 Adamu Peace</p>
