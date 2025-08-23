@@ -4,53 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Adamu Peace's Portfolio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    section {
-      margin-bottom: 40px;
-    }
-    ul {
-      list-style-type: square;
-      padding-left: 20px;
-    }
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    form input[type="text"],
-    form input[type="email"] {
-      width: 300px;
-      padding: 8px;
-      margin-bottom: 10px;
-    }
-    form input[type="submit"] {
-      padding: 10px 20px;
-      background-color: #2980b9;
-      color: white;
-      border: none;
-      cursor: pointer;
-    }
-    form input[type="submit"]:hover {
-      background-color: #1c5980;
-    }
-    footer {
-      text-align: center;
-      margin-top: 60px;
-      font-size: 0.9em;
-      color: #777;
-    }
-  </style>
+
 </head>
 <body>
 
@@ -116,15 +70,7 @@
     <p>Phone: 09069668265</p>
     <p>Email: <a href="mailto:peacejoadamu@gmail.com">peacejoadamu@gmail.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/peace-adamu-34576b23a">peace-adamu-34576b23a</a></p>
-    <form>
-      <label for="name">Name:</label><br>
-      <input type="text" id="name" name="name"><br><br>
-
-      <label for="email">Email:</label><br>
-      <input type="email" id="email" name="email"><br><br>
-
-      <input type="submit" value="Send">
-    </form>
+   
   </section>
 
   <footer>
